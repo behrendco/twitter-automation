@@ -16,4 +16,4 @@ Select users were targeted based on whether they had previously followed similar
 - Retrieves motivational quotes via the free Zenquotes API
 - Generates centered text with custom font over a black background as an image (shown below)
 
-![App Screenshot](https://github.com/behrendco/twitter-automation/blob/main/quote.png?raw=true)
+<img src="https://github.com/behrendco/twitter-automation/blob/main/quote.png?raw=true" width="500">
